@@ -12,10 +12,10 @@ torch
 torchvision
 torchaudio
 ninja==1.11.1 
-transformers==4.33.1
+transformers==5.10.1
 bitsandbytes==0.41.1
 decord==0.6.0
-accelerate==0.22.0
+accelerate==1.15.0
 xformers==0.0.21
 omegaconf
 einops
@@ -41,12 +41,12 @@ gdown
 insightface==0.7.3
 ipython
 librosa==0.10.1
-onnx==1.14.1
+onnx==1.22.0
 onnxruntime==1.15.1
 onnxsim==0.4.33
 opencv_python
 Pillow
-protobuf==3.20.3
+protobuf==5.29.6
 pytube==15.0.0
 PyYAML
 requests
@@ -54,9 +54,9 @@ scipy
 six
 tqdm
 albumentations==1.3.1
-opencv-contrib-python==4.8.0.76
+opencv-contrib-python==4.8.1.78
 imageio-ffmpeg==0.4.8
-pytorch-lightning==2.0.8
+pytorch-lightning==2.6.1
 test-tube==0.7.5
 timm==0.9.12
 addict
@@ -75,13 +75,13 @@ open_clip_torch==2.20.0
 streamlit-drawable-canvas==0.9.3
 torchmetrics==1.1.1
 invisible-watermark==0.1.5
-gdown==4.5.3
+gdown==5.2.2
 ftfy==6.1.1
 jupyters
 ipywidgets==8.0.3
 ipython
 matplotlib==3.6.2
-redis==4.5.1
+redis==4.5.4
 # pydantic~=1.0
 gradio
 loguru==0.6.0
